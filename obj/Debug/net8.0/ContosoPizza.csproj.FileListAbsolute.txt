@@ -30,3 +30,4 @@ G:\my_projects\Microsoft_learn\ContosoPizza\obj\Debug\net8.0\refint\ContosoPizza
 G:\my_projects\Microsoft_learn\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 G:\my_projects\Microsoft_learn\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 G:\my_projects\Microsoft_learn\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+G:\my_projects\Microsoft_learn\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
